@@ -3,5 +3,6 @@ version: 1.1.0
 passwd:
   users:
     - name: core
+      password_hash: $1$yoursalt$DPOKvcfg1EZbeOC9.rmld1
       ssh_authorized_keys:
         - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCyknLbXPrRfxXM70usiX+zer5dots9xCDXGmzbRUojlysxgzhD+7XxwAMlLjlCcutsigBsahTIuxb++/Sjr+M/GNnTTOHaNGjFbAb82pUQi9j41Q2Ksvq0C5+3Dtac/ZWQWmwOG+vUBh5nNtJfqBhuqmAbKunJ1wBVEhf8OqAvKvaQvNn3Id1KOCbCRd8GJwc/OA5jdUhbTjfJhWk7TEJelaLNOFRa9j8mVH10QcJ7XtMLCYOK4LOaApizrgXnBBn86KtGlxyAYEQBdYJicbqBH6ZL+SSqtN4inS76Yixe1fdmXZlVBSf3AXrjWFaVIBJBDwt38lDuRX02TQk0xHo/BqI3/cRkskVuTVFOdgrwLcA3TwXEI7ECjb843edZUofR4Sx8ABn81SlQyVWqITl6YB8+Vq/2OpKoGjQrts8JOTGQ7NRDfY7mcFZ5GgLD7kCEtrnFwahL7jxap0AFWP1LhuGuDwR33QFeAlXMRC0Qzyo/KGWOrWyvBV6VxcpYyIOceNDGKXPfrfLdu+vTLXtN9hS5DCcj33U9Ja8ufefPrQairU2OvySQjUD5IJe1mFpeabcCy7+D5CAeJpr01tYroLnoOjGNhPzOyzK9Fd0OjY35JFK1JRvvlIa/GusEHEkJKX1o+x5Iy6zGWYO/+jFcAcS5u3wXLyN94f7w3zenlw== 2336526507@qq.com
