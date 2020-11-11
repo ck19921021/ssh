@@ -5,4 +5,4 @@ passwd:
     - name: core
       password_hash: $1$yoursalt$edT.6gLCIDKl4Jv4/sycN.
       ssh_authorized_keys:
-        - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCa/N0G2csz6oNVI0PbXwtGIwufH2vZvzfgp6vz8PDvvCYtgkDZ7fGqWKJJI+TU73ijcZ9mHPCL6Niu+Pmcan5rk0S3JfGDcZDWtGM6porlq9bSDipuizRMaqUlPQSiuiZPuw8uWZ6ATgDcOWrEx392pOGY/0nUjaJWVFEO8rMC2XovK6RRWN/Kn9zCcuAZI0wWw4grqfz4jTUEadcaNU3NK6Ph232INv1+pIrkfBTktIQoHae36AAbKpl0rutAvl3wJQdApG/JvlBAllNAK8wxlbPR6nRpyvrGWGI7zKw660YHVt/9G4C2oXuJO5FfpSbjYQgAFTnC8jbAVrnEH3+B Administrator@ZGC-20201018VGI
+        - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDW5eu0uI7lD/MYcbVioRirwpwbpMHgX+8szmHMWP2ZlWBrAAs3XqHDv/ix+VV1F0SLtm/0H/gfXddkm6nRvk5MwYgt6wbHmyLXWUGEfusZplOkM4AlIjiJzrvA+PxzVfDW+EnOVOHRvlIVMQkTRJg0cL5/cnHG+Ak+mZQAczwhhceYavG8Y6AIqJAx/HmDImiOXXkYxC3Hc5VLkLt5c92dqi1fF63Rx2vy7t3xO0zLiUfXUxB9nZiz9QawVHPYRZPTJpckMdX5O7AcAFP9CgU5g6OT+qs3V6mJTr8YvbcA/Wlh/iBV2WStLy1fd0eVmTfftGhQ/cEADcHrvDwkwa+h 2464017733@qq.com
