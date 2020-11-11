@@ -5,4 +5,4 @@ passwd:
     - name: core
       password_hash: $1$yoursalt$edT.6gLCIDKl4Jv4/sycN.
       ssh_authorized_keys:
-        - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC4no1K5NaVv5rqLrNoS/mJTer3jZ4iB3pkyE6yXSc8lNpwhyZCO8iPJtPJXkXG68raDWI9Ca0IElSgnsrblgbU3ML2UDsT3A9nE23Cl+N3qkxkf69qyl8l6d74UJLJnU94P4A6LE9TVWdZXZ3UnJ6dWjnETck3nhFbySHJ+iz7my2qapYUCXdq76ncDmX/hpEwFMs0R7OoyMJdDyBB/vuv23hPLrJyXK+seFQN/YK9niZ7+KwcW+xPqqVOLtIJCA9UWcMOOI2vALOizp28wqWhaqafusnl0coabtHstpmEFHGJCdD4W8cpRyKcu+QaaPWqdaELxHLO6CnS4lIwjDiX Administrator@ZGC-20201018VGI
+        - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCa/N0G2csz6oNVI0PbXwtGIwufH2vZvzfgp6vz8PDvvCYtgkDZ7fGqWKJJI+TU73ijcZ9mHPCL6Niu+Pmcan5rk0S3JfGDcZDWtGM6porlq9bSDipuizRMaqUlPQSiuiZPuw8uWZ6ATgDcOWrEx392pOGY/0nUjaJWVFEO8rMC2XovK6RRWN/Kn9zCcuAZI0wWw4grqfz4jTUEadcaNU3NK6Ph232INv1+pIrkfBTktIQoHae36AAbKpl0rutAvl3wJQdApG/JvlBAllNAK8wxlbPR6nRpyvrGWGI7zKw660YHVt/9G4C2oXuJO5FfpSbjYQgAFTnC8jbAVrnEH3+B Administrator@ZGC-20201018VGI
